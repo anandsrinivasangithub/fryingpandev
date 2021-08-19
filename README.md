@@ -27,13 +27,5 @@ You can also contact me through email, at <code>fryingpan@fryingpan.codes</code>
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
-<table>
-  <tr>
-    <td style="padding: 0; width=50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=fryingpandev&show_icons=true&locale=en"/>
-    </td>
-    <td style="padding: 0; width=50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fryingpandev&show_icons=true&locale=en"/>
-    </td>
-  </tr>
-</table>
+ <img style="padding: 0; width=50%" src="https://github-readme-stats.vercel.app/api?username=fryingpandev&show_icons=true&locale=en"/>
+        <img padding: 0; width=100% src="https://cdn.discordapp.com/banners/836361597701193748/8f3d90cf36e7d7ba56e631ea476ec289.png?size=512"/>
