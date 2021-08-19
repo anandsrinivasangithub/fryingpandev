@@ -13,3 +13,27 @@
 <br><br>
 You can also contact me through email, at <code>fryingpan@fryingpan.codes</code>
 </p>
+<h3 align="left">Languages and Tools that I use:</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/git-f1502f?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react-61dbfb?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+</p>
+<table>
+  <tr>
+    <td style="padding: 0; width=50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=fryingpandev&show_icons=true&locale=en"/>
+    </td>
+    <td style="padding: 0; width=50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fryingpandev&show_icons=true&locale=en"/>
+    </td>
+  </tr>
+</table>
