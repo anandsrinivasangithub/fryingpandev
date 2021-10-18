@@ -4,7 +4,7 @@
 <h3 align="left">Some of my projects:</h3>
 <ul>
 <li>I've made a Discord bot called Frying Pan Bot! It does everything your server needs, and more! You can invite it <a href = "https://discord.com/oauth2/authorize?client_id=853001990447169557&permissions=8&scope=bot%20applications.commands">here</a></li>
-<li>You can also visit my <a href = "https://fryingpan.codes">website</a></li>
+<li>You can also visit my <a href = "http://fryingpan.codes">website</a></li>
 </ul>
 <h3 align="left">Contact Me:</h3>
 <p align="left">
