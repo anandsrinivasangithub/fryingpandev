@@ -1,6 +1,4 @@
-<h1 align = "center">Heyo, I'm Frying Pan! (he/him)<img src = "https://media.tenor.com/images/f580b40a349dcb2d7cb93573e2329061/tenor.gif" width = "50px" ></img></h1>
-<h3 align = "center">I'm a developer and student, but I do consider myself a thinker. I'm also a Discord Bug Hunter!</h3>
-<p>Most of my repositories on GitHub are private at the moment, but I'm planning to make more open-source projects and technologies for the world to use!</p>
+
 <h3 align="left">Some of my projects:</h3>
 <ul>
 <li>I've made a Discord bot called Frying Pan Bot! It does everything your server needs, and more! You can invite it <a href = "https://discord.com/oauth2/authorize?client_id=853001990447169557&permissions=8&scope=bot%20applications.commands">here</a></li>
